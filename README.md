@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm Robe0g9owp7n46rtBocz9vjcfpdulson
 
-<!--
-**Robe0g9owp7n46rtBocz9vjcfpdulson/Robe0g9owp7n46rtBocz9vjcfpdulson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎪 🎯 🎣 Curious about tech reviews 🎪 🎯 🎣
 
-Here are some ideas to get you started:
+## About Me
+🏊 🚣 🎬 🏄 A student of devops 🏊 🚣 🎬 🏄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🏑 🎰 🥋 🏓 A designer in cloud computing 🏑 🎰 🥋 🏓
+
+### Fun Facts
+🌍 🏄 🎮 A keen learner of startup culture 🌍 🏄 🎮
+
+---
+🎯 🎪 🛹 🎺 🎵 Thanks for visiting my profile! 🎺 🌍 🎨 🥊 🚴
